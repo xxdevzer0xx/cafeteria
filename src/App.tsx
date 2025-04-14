@@ -16,7 +16,7 @@ function App() {
         <header className="bg-green py-2 px-6 fixed w-full z-50 flex items-center justify-between">
           <div className="flex-1 flex justify-start">
             <Link to="/" className="h-16 flex items-center">
-              <img src="../img/logo_cafe4.png" alt="Logo" className="h-full" />
+              <img src="./img/logo_cafe4.png" alt="Logo" className="h-full" />
             </Link>
           </div>
           
